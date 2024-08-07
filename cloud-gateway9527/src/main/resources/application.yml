@@ -1,0 +1,21 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: cloud-gateway
+  cloud:
+    consul:
+      host: localhost
+      discovery:
+        prefer-ip-address: true
+        service-name: ${spring.application.name}
+    gateway:
+      routes:
+        - id: pay_route1
+          uri: lb://cloud-payment-service
+          predicates:
+            - Path=/pay/get/**
+            - After=2024-07-28T11:22:18.267597200+08:00[Asia/Shanghai]
+#            - Before=2024-07-28T11:27:48.267597200+08:00[Asia/Shanghai]
+            - Cookie=username,kjb

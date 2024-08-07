@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b5f8c09-62a8-49d3-aad3-96ce4735b800" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/21887af8-1a46-4084-b4f9-7ccdf2124f85.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/21887af8-1a46-4084-b4f9-7ccdf2124f85/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/21887af8-1a46-4084-b4f9-7ccdf2124f85/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/21887af8-1a46-4084-b4f9-7ccdf2124f85/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/21887af8-1a46-4084-b4f9-7ccdf2124f85/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T000245.500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T000311.500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T161347.500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T161410.500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T173628.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T173636.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T174459.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T174738.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T174748.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T175144.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T180416.400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T180849.400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T181429.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T181434.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T190221.400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T211946.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T212000.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T212039.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-07-18T212102.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/kjb/apis/AccountFeignApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/kjb/apis/PayFeignApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/kjb/apis/StorageFeignApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/kjb/entities/PayDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/kjb/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/kjb/retutnformat/ReturnCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/kjb/retutnformat/ReturnData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/kjb/MainOpenFeign80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/kjb/controller/GatewayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/kjb/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/kjb/Main80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/kjb/config/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/kjb/controller/ConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway9527/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway9527/src/main/java/com/kjb/Main9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/kjb/Main8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/kjb/config/Swagger3Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/kjb/controller/PayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/kjb/entities/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/kjb/mapper/PayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/kjb/service/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/kjb/service/impl/PayServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/test/java/com/kjb/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/kjb/Main8002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/kjb/config/Swagger3Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/kjb/controller/PayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/kjb/entities/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/kjb/mapper/PayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/kjb/service/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/kjb/service/impl/PayServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/kjb/MainNacosConfigClient3377.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/kjb/controller/NacosConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/kjb/Main83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/kjb/config/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/kjb/controller/OrderNacosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/kjb/Main9001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/kjb/controller/PayAlibabaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/kjb/Main8401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/kjb/controller/FlowLimitController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/kjb/service/FlowLimitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/src/main/java/com/kjb/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/src/main/java/com/kjb/mapper/AccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/src/main/java/com/kjb/mapper/AccountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_generator2024/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/kjb/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/kjb/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/kjb/mapper/AccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/kjb/seataAccountMain2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/kjb/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/kjb/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/kjb/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/kjb/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/kjb/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/kjb/seataOrderMain2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/kjb/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/kjb/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/kjb/controller/StorageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/kjb/entities/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/kjb/mapper/StorageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/kjb/seataStorageMain2002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/kjb/service/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/kjb/service/impl/StorageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.9.5" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.9.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jGAmtgMbhooWbXnJbDwOCMaRRW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/java/javacode-IDEA/SpringCloud-code/cloud2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/java/javacode-IDEA/SpringCloud-code/cloud2024/seata-account-service2003/src/main/java/com/kjb/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.28058878",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "4d4aad07df2549ecb3dfb12e15b21eed",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\javacode-IDEA\SpringCloud-code\cloud2024\seata-account-service2003\src\main\resources\mapper" />
+      <recent name="D:\java\javacode-IDEA\SpringCloud-code\cloud2024\seata-account-service2003\src\main\java\com\kjb" />
+      <recent name="D:\java\javacode-IDEA\SpringCloud-code\cloud2024\seata-account-service2003\src\main\resources" />
+      <recent name="D:\java\javacode-IDEA\SpringCloud-code\cloud2024\seata-storage-service2002\src\main\resources\mapper" />
+      <recent name="D:\java\javacode-IDEA\SpringCloud-code\cloud2024\seata-storage-service2002\src\main\java\com\kjb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\javacode-IDEA\SpringCloud-code\cloud2024\seata-order-service2001\src\main\java\com\kjb\mapper" />
+      <recent name="D:\java\javacode-IDEA\SpringCloud-code\cloud2024\mybatis_generator2024\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kjb.mapper" />
+      <recent name="com.kjb.domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.seataAccountMain2003">
+    <configuration name="Main80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.Main80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.Main8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.Main8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.Main83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.Main8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9002(copy from 9001)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.Main9001" />
+      <option name="VM_PARAMETERS" value="-DServer.port=9002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.Main9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainNacosConfigClient3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-config-nacos-client3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.MainNacosConfigClient3377" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOpenFeign80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.MainOpenFeign80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seataAccountMain2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.seataAccountMain2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seataOrderMain2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.seataOrderMain2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seataStorageMain2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kjb.seataStorageMain2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.seataOrderMain2001" />
+      <item itemvalue="Spring Boot.seataStorageMain2002" />
+      <item itemvalue="Spring Boot.Main9527" />
+      <item itemvalue="Spring Boot.MainOpenFeign80" />
+      <item itemvalue="Spring Boot.Main8002" />
+      <item itemvalue="Spring Boot.Main8001" />
+      <item itemvalue="Spring Boot.Main80" />
+      <item itemvalue="Spring Boot.seataAccountMain2003" />
+      <item itemvalue="Spring Boot.Main8401" />
+      <item itemvalue="Spring Boot.MainNacosConfigClient3377" />
+      <item itemvalue="Spring Boot.Main83" />
+      <item itemvalue="Spring Boot.Main9002(copy from 9001)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.seataAccountMain2003" />
+        <item itemvalue="Spring Boot.Main8401" />
+        <item itemvalue="Spring Boot.MainNacosConfigClient3377" />
+        <item itemvalue="Spring Boot.Main9002(copy from 9001)" />
+        <item itemvalue="Spring Boot.Main83" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b5f8c09-62a8-49d3-aad3-96ce4735b800" name="Changes" comment="" />
+      <created>1705290204743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705290204743</updated>
+      <workItem from="1721003205152" duration="952000" />
+      <workItem from="1721015179843" duration="2508000" />
+      <workItem from="1721025908411" duration="4280000" />
+      <workItem from="1721050733198" duration="1530000" />
+      <workItem from="1721098166613" duration="4353000" />
+      <workItem from="1721108126630" duration="2836000" />
+      <workItem from="1721120427847" duration="434000" />
+      <workItem from="1721120902105" duration="2643000" />
+      <workItem from="1721134307763" duration="392000" />
+      <workItem from="1721134721711" duration="2780000" />
+      <workItem from="1721143710258" duration="2154000" />
+      <workItem from="1721184689275" duration="53000" />
+      <workItem from="1721188594452" duration="486000" />
+      <workItem from="1721222490553" duration="3760000" />
+      <workItem from="1721230759340" duration="1543000" />
+      <workItem from="1721289641007" duration="2811000" />
+      <workItem from="1721293088874" duration="7618000" />
+      <workItem from="1721302573333" duration="5601000" />
+      <workItem from="1721354760018" duration="3757000" />
+      <workItem from="1721365364773" duration="9888000" />
+      <workItem from="1721446032047" duration="5040000" />
+      <workItem from="1721458050760" duration="10983000" />
+      <workItem from="1721557274638" duration="5449000" />
+      <workItem from="1721627454229" duration="8763000" />
+      <workItem from="1721653406734" duration="2501000" />
+      <workItem from="1721702933000" duration="2708000" />
+      <workItem from="1721712869108" duration="8369000" />
+      <workItem from="1722131575842" duration="6981000" />
+      <workItem from="1722249481335" duration="786000" />
+      <workItem from="1722259563799" duration="648000" />
+      <workItem from="1722322170076" duration="9703000" />
+      <workItem from="1722344763897" duration="1250000" />
+      <workItem from="1722418160566" duration="2396000" />
+      <workItem from="1722426837515" duration="898000" />
+      <workItem from="1722481440825" duration="2697000" />
+      <workItem from="1722668050209" duration="3552000" />
+      <workItem from="1722767002430" duration="1322000" />
+      <workItem from="1722776829555" duration="1404000" />
+      <workItem from="1722825889200" duration="62000" />
+      <workItem from="1722855301414" duration="346000" />
+      <workItem from="1722862256623" duration="3003000" />
+      <workItem from="1722865280605" duration="52000" />
+      <workItem from="1722865352297" duration="1876000" />
+      <workItem from="1722930209931" duration="10901000" />
+      <workItem from="1722999176482" duration="3526000" />
+      <workItem from="1723009230896" duration="3078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kjb/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

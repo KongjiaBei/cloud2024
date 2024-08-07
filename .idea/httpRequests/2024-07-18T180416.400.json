@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-07-18T10:04:16.802+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/pay/add1"
+}
